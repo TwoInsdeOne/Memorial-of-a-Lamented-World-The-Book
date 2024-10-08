@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Worlds.md",
+                "file": "Illumination.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Illumination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Illumination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Illumination.md"
+              }
             }
           }
         ]
@@ -156,11 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64999cc4484583e8",
+  "active": "0499b7f8bbd9c34d",
   "lastOpenFiles": [
+    "Plerina.md",
+    "Illumination.md",
+    "Cerise.md",
     "Porcelain.md",
     "Two Worlds.md",
-    "Cerise.md",
     "create a link.md"
   ]
 }

@@ -1,0 +1,3 @@
+The first Cerise civilization, for some reason, started worshiping [[Porcelain]] as a Goddess. They noticed that during worship rituals, something "good" happens. It was quite difficult to describe what that was, but there was some emotional transformation inside each participant.
+
+Through the ages, a lot of texts were written in the attempt to understand and describe that phenomenon. This set of texts were called the [[Plerina]]. Sometimes, communities were formed from a single text with a set of defined ritual practices and formed religions out of it.
