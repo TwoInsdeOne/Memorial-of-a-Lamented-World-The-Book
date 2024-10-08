@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "1313c662a0419776",
+    "type": "split",
+    "children": [
+      {
+        "id": "94c6ffabfc605ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0499b7f8bbd9c34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two Worlds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f0fd81bc7e98a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64999cc4484583e8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f14a11cec2dc5b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ad4f4fb859b3efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a4e7236a55577e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "921410fb8431ef74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbc2e0e7f4210d7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b1be6cffa1f29b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ef87cdd0b251587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356f887501cdb547",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c656e0a579bc02be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41b2ecc041469e74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "625129140fcd9bf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "64999cc4484583e8",
+  "lastOpenFiles": [
+    "Porcelain.md",
+    "Two Worlds.md",
+    "Cerise.md",
+    "create a link.md"
+  ]
+}
