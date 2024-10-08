@@ -1,0 +1,1 @@
+Imeam was a habitant from the planet [[Cerise]] that lived from 32 bI to 30 aI. She was the first person to ever write a [[Plerina]] text called [[Illumination]]. The next year, she wrote [[Saudade]], which started to pave the way for more Plerina texts to be written as it became clear that all the community wanted some kind of [[Reconnection]] 
