@@ -1,0 +1,1 @@
+The first Porcelain civilization worshiped the Sun as a god. They realized that during worship rituals, the Sun becomes brighter and warmer, which helped all the flora to flourish with more abundance. 
