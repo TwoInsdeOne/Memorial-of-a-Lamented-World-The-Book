@@ -1,0 +1,5 @@
+*I will forever sound romantic when I can't see. If I feel is because it touches me. I'm sure I heard a long story and then my memory was erased. My body remembers it, but can't ever tell me. One day someone will learn how to listen. If it feels so deeply, there must be a reason. We must always question. Never be sure. It doesn't allow for certainty, because there's no certainty that correctly explain. The feeling is there, so we can't allow any half explanation because it hurts to lie. It does hurt.*
+
+*I wonder if it's even possible to ever be able to see what it's trying to tell us. We will continue to use words because it blooms with every little touch. Completely colorful for us colorblind. It's trying to reach us somehow. If we can't see, it comes as sound. If we can't hear, it comes as scent. If we can't smell, it comes as touch. If we can't feel, it comes as emotion.* 
+
+*-Deimo, year 1 aI*

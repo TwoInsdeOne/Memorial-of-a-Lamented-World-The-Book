@@ -1,34 +1,49 @@
 {
   "main": {
-    "id": "1313c662a0419776",
+    "id": "87af3737b2c99cb9",
     "type": "split",
     "children": [
       {
-        "id": "94c6ffabfc605ab7",
+        "id": "926e6db1829001a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0499b7f8bbd9c34d",
+            "id": "4475b21244516b8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Illumination.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illumination"
+              "title": "Overview"
+            }
+          },
+          {
+            "id": "cfd55ad25a47fedd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pillars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Pillars"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "0f0fd81bc7e98a1d",
+        "id": "20ff98185eae8ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "64999cc4484583e8",
+            "id": "ec313655d3af1774",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -43,27 +58,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f14a11cec2dc5b4",
+    "id": "f91acb621902d58c",
     "type": "split",
     "children": [
       {
-        "id": "7ad4f4fb859b3efb",
+        "id": "c2ddd8ce814b66b6",
         "type": "tabs",
         "children": [
           {
-            "id": "76a4e7236a55577e",
+            "id": "9888455892ff28d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "921410fb8431ef74",
+            "id": "03c3378202b07881",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +95,7 @@
             }
           },
           {
-            "id": "dbc2e0e7f4210d7d",
+            "id": "8b79693d93ea3bce",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +111,20 @@
     "width": 300
   },
   "right": {
-    "id": "2b1be6cffa1f29b6",
+    "id": "3ea0855876fb608c",
     "type": "split",
     "children": [
       {
-        "id": "5ef87cdd0b251587",
+        "id": "d85dd7e24f4bb653",
         "type": "tabs",
         "children": [
           {
-            "id": "356f887501cdb547",
+            "id": "3adbbeb80d3cde91",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Illumination.md",
+                "file": "Design Pillars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +134,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Illumination"
+              "title": "Backlinks for Design Pillars"
             }
           },
           {
-            "id": "c656e0a579bc02be",
+            "id": "761b0d34b5deaa2c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Illumination.md",
+                "file": "Design Pillars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Illumination"
+              "title": "Outgoing links from Design Pillars"
             }
           },
           {
-            "id": "41b2ecc041469e74",
+            "id": "91686bc8f9a05968",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,19 +165,18 @@
             }
           },
           {
-            "id": "625129140fcd9bf9",
+            "id": "98e0d381350749f5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Illumination.md"
+                "file": "Design Pillars.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Illumination"
+              "title": "Outline of Design Pillars"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,18 +193,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0499b7f8bbd9c34d",
+  "active": "cfd55ad25a47fedd",
   "lastOpenFiles": [
-    "Plerina.md",
-    "Illumination.md",
-    "Porcelain.md",
-    "Untitled.canvas",
-    "Touch.md",
-    "Saudade.md",
-    "Reconnection.md",
-    "Cerise.md",
-    "Imeam.md",
-    "Two Worlds.md",
-    "create a link.md"
+    "Overview.md",
+    "Design Pillars.md"
   ]
 }
